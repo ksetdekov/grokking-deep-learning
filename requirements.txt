@@ -3,3 +3,5 @@ numpy
 ipykernel
 matplotlib
 keras
+torch
+pytorch-lightning
